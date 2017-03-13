@@ -1,0 +1,8 @@
+c:\users\chagali\documents\visual studio 2015\Projects\NasaRoverMissionApp\NasaRoverMissionApp.Test\bin\Debug\NasaRoverMissionApp.Test.dll
+c:\users\chagali\documents\visual studio 2015\Projects\NasaRoverMissionApp\NasaRoverMissionApp.Test\bin\Debug\NasaRoverMissionApp.Test.pdb
+c:\users\chagali\documents\visual studio 2015\Projects\NasaRoverMissionApp\NasaRoverMissionApp.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\chagali\documents\visual studio 2015\Projects\NasaRoverMissionApp\NasaRoverMissionApp.Test\bin\Debug\NasaRoverMissionApp.Services.dll
+c:\users\chagali\documents\visual studio 2015\Projects\NasaRoverMissionApp\NasaRoverMissionApp.Test\bin\Debug\NasaRoverMissionApp.Services.pdb
+c:\users\chagali\documents\visual studio 2015\Projects\NasaRoverMissionApp\NasaRoverMissionApp.Test\obj\Debug\NasaRoverMissionApp.Test.csprojResolveAssemblyReference.cache
+c:\users\chagali\documents\visual studio 2015\Projects\NasaRoverMissionApp\NasaRoverMissionApp.Test\obj\Debug\NasaRoverMissionApp.Test.dll
+c:\users\chagali\documents\visual studio 2015\Projects\NasaRoverMissionApp\NasaRoverMissionApp.Test\obj\Debug\NasaRoverMissionApp.Test.pdb

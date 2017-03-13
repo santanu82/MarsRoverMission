@@ -1,0 +1,5 @@
+c:\users\chagali\documents\visual studio 2015\Projects\NasaRoverMissionApp\NasaRoverMissionApp.Services\bin\Debug\NasaRoverMissionApp.Services.dll
+c:\users\chagali\documents\visual studio 2015\Projects\NasaRoverMissionApp\NasaRoverMissionApp.Services\bin\Debug\NasaRoverMissionApp.Services.pdb
+c:\users\chagali\documents\visual studio 2015\Projects\NasaRoverMissionApp\NasaRoverMissionApp.Services\obj\Debug\NasaRoverMissionApp.Services.dll
+c:\users\chagali\documents\visual studio 2015\Projects\NasaRoverMissionApp\NasaRoverMissionApp.Services\obj\Debug\NasaRoverMissionApp.Services.pdb
+c:\users\chagali\documents\visual studio 2015\Projects\NasaRoverMissionApp\NasaRoverMissionApp.Services\obj\Debug\NasaRoverMissionApp.Services.csprojResolveAssemblyReference.cache
